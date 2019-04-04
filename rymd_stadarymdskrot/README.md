@@ -88,10 +88,10 @@ Nu ska vi styra rymdfarkosten genom att trycka på piltangenterna på tangentbor
 
 ### 5 – Kolla om rymdfarkosten rör vid cirkeln
 
-Efter att vi gått framåt 2 steg så ska vi kolla om vi <span class="sb">rör vid Cirkel</span>.
+Efter att vi gått framåt 2 steg så ska vi kolla om vi <span class="sb sensing">rör vid Cirkel</span>.
 
 1. Sätt in blocket <span class="sb sensing">rör vid Cirkel</span> på den tomma rutan av <span class="sb control">om <> då</span>-blocket.  
-2. Dra även in <span class="sb looks">Vi lyckades ta cirkeln!</span> in i <span class="sb">om <> då</span> och sen även <span class="sb control">stoppa alla</span>.  
+2. Dra även in <span class="sb looks">Vi lyckades ta cirkeln!</span> in i <span class="sb control">om <> då</span> och sen även <span class="sb control">stoppa alla</span>.  
 3. Slutligen flyttar vi hela <span class="sb control">om <> då</span>-blocket och lägger det efter <span class="sb movement">gå 2 steg</span>.
 
 > Starta spelet igen. Säger din rymdfarkost något när du lyckas ta cirkeln?
