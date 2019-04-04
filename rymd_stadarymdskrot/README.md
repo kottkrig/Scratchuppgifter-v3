@@ -6,6 +6,7 @@
     font-style: normal;
     display: inline-block;
     margin-bottom: 1px;
+    font-weight: bold;
   } span.sb img {
     position: relative;
     width: 24px;
