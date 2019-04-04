@@ -58,7 +58,7 @@ Vi har redan gjort en rymdbakgrund och lagt ut en rymdfarkost so du ska styra. �
 
 Nu ska vi få rymdfarkosten att gå 2 steg hela tiden - för alltid.
 
-1. Vi får flytta <span class="sb">gå 2 steg</span> till blocket <span class="sb control">för alltid</span> och stoppa in det där.
+1. Vi får flytta <span class="sb movement">gå 2 steg</span> till blocket <span class="sb control">för alltid</span> och stoppa in det där.
 2. Sen drar vi <span class="sb control">för alltid</span> och <span class="sb movemenent">gå 2 steg</span> till start-blocket <span class="sb">när ![flagga](flagga.png)klickas på</span>.
 
 ![](./2_0.png)
@@ -91,9 +91,9 @@ Nu ska vi styra rymdfarkosten genom att trycka på piltangenterna på tangentbor
 
 Efter att vi gått framåt 2 steg så ska vi kolla om vi <span class="sb">rör vid Cirkel</span>.
 
-1. Sätt in blocket <span class="sb">rör vid Cirkel</span> på den tomma rutan av <span class="sb">om <> då</span>-blocket.  
-2. Dra även in <span class="sb">Vi lyckades ta cirkeln!</span> in i <span class="sb">om <> då</span> och sen även <span class="sb">stoppa alla</span>.  
-3. Slutligen flyttar vi hela <span class="sb">om <> då</span>-blocket och lägger det efter <span class="sb">gå 2 steg</span>.
+1. Sätt in blocket <span class="sb sensing">rör vid Cirkel</span> på den tomma rutan av <span class="sb control">om <> då</span>-blocket.  
+2. Dra även in <span class="sb looks">Vi lyckades ta cirkeln!</span> in i <span class="sb">om <> då</span> och sen även <span class="sb control">stoppa alla</span>.  
+3. Slutligen flyttar vi hela <span class="sb control">om <> då</span>-blocket och lägger det efter <span class="sb movement">gå 2 steg</span>.
 
 > Starta spelet igen. Säger din rymdfarkost något när du lyckas ta cirkeln?
 
