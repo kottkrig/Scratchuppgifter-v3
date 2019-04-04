@@ -18,7 +18,7 @@
 Nu ska du få bygga ett spel i Scratch där en rymdfarkost ska försöka fånga en cirkel i rymden.
 
 
-<a href="https://scratch.mit.edu/projects/299972562/editor/" target="_blank">https://scratch.mit.edu/projects/299972562/editor/</a>
+<a href="https://scratch.mit.edu/projects/299972562/editor/" target="_blank">Klicka här för att öppna Scratch-uppgiften</a>
 
 Vi har redan gjort en rymdbakgrund och lagt ut en rymdfarkost so du ska styra. Även alla block som behövs ligger framme.
 
