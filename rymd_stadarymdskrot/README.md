@@ -29,6 +29,12 @@
     color: white;
   }
 
+  .control {
+    background-color: rgb(255, 171, 25);
+    border-color: rgb(207, 139, 23);
+    color: white;
+  }
+
   .sensing {
     background-color: rgb(92, 177, 214);
     border-color: rgb(46, 142, 184);
@@ -58,7 +64,7 @@ Vi har redan gjort en rymdbakgrund och lagt ut en rymdfarkost so du ska styra. �
 
 ### 1 – Nu programmerar vi!
 
-1. För att rymdraketen ska åka framåt behöver vi använda blocket <span class="sb">gå 2 steg</span> och sätta den efter blocket <span class="sb event">när ![flagga](flagga.png) klickas på</span>.
+1. För att rymdraketen ska åka framåt behöver vi använda blocket <span class="sb movement">gå 2 steg</span> och sätta den efter blocket <span class="sb event">när ![flagga](flagga.png) klickas på</span>.
 
 2. Tryck på flaggan för att testa så att rymdfarkosten rör sig framåt varje gång du trycker.
 
@@ -66,14 +72,14 @@ Vi har redan gjort en rymdbakgrund och lagt ut en rymdfarkost so du ska styra. �
 
 Nu ska vi få rymdfarkosten att gå 2 steg hela tiden - för alltid.
 
-1. Vi får flytta <span class="sb">gå 2 steg</span> till blocket <span class="sb">för alltid</span> och stoppa in det där.
+1. Vi får flytta <span class="sb">gå 2 steg</span> till blocket <span class="sb control">för alltid</span> och stoppa in det där.
 2. Sen drar vi <span class="sb">för alltid > gå 2 steg</span> till start-blocket <span class="sb">när ![flagga](flagga.png)klickas på</span>.
 
 ### 3 – Starta från början
 
 När vi trycker på den gröna flaggan så börjar inte rymdfarkosten om från början. Vi måste säga till den att den ska gå till en position när den gröna flaggan klickas på.
 
-1. Lägg blocket <span class="sb">gå till x:-115 y:-74</span> mellan <span class="sb">när ![flagga](flagga.png)klickas på</span> och <span class="sb">för alltid</span>.
+1. Lägg blocket <span class="sb movement">gå till x:-115 y:-74</span> mellan <span class="sb">när ![flagga](flagga.png)klickas på</span> och <span class="sb ">för alltid</span>.
 
     ![Skript 3](skript-03.png)
 
