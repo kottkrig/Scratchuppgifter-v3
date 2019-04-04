@@ -35,14 +35,14 @@ Vi har redan gjort en rymdbakgrund och lagt ut en rymdfarkost so du ska styra. �
 
 Nu ska vi få rymdfarkosten att gå 2 steg hela tiden - för alltid.
 
-1. Vi får flytta <i class="sb">gå 2 steg</i> till blocket <i class="sb">för alltid</i> och stoppa in det där.
-2. Sen drar vi <i class="sb">för alltid > gå 2 steg</i> till start-blocket <i class="sb">när ![flagga](flagga.png)klickas på</i>.
+1. Vi får flytta <span class="sb">gå 2 steg</span> till blocket <span class="sb">för alltid</span> och stoppa in det där.
+2. Sen drar vi <span class="sb">för alltid > gå 2 steg</span> till start-blocket <span class="sb">när ![flagga](flagga.png)klickas på</span>.
 
 ### 3 – Starta från början
 
 När vi trycker på den gröna flaggan så börjar inte rymdfarkosten om från början. Vi måste säga till den att den ska gå till en position när den gröna flaggan klickas på.
 
-1. Lägg blocket <i class="sb">gå till x:-115 y:-74</i> mellan <i class="sb">när ![flagga](flagga.png)klickas på</i> och <i class="sb">för alltid</i>.
+1. Lägg blocket <span class="sb">gå till x:-115 y:-74</span> mellan <span class="sb">när ![flagga](flagga.png)klickas på</span> och <span class="sb">för alltid</span>.
 
     ![Skript 3](skript-03.png)
 
@@ -52,21 +52,21 @@ När vi trycker på den gröna flaggan så börjar inte rymdfarkosten om från b
 
 Nu ska vi styra rymdfarkosten genom att trycka på piltangenterna på tangentbordet.
 
-1. När vänsterpil trycks ned vill vi att skalbaggen ska vända åt vänster. Dra blocket <i class="sb">vänd vänster 15 grader</i> till blocket <i class="sb">när vänsterpil trycks ned</i>.
+1. När vänsterpil trycks ned vill vi att skalbaggen ska vända åt vänster. Dra blocket <span class="sb">vänd vänster 15 grader</span> till blocket <span class="sb">när vänsterpil trycks ned</span>.
 
     ![När vänsterpil vänd åt vänster](skript-04a.png)
 
     > Starta spelet och tryck på vänsterpilen på tangentbordet flera gånger. Svänger rymdfarkosten åt vänster?
 
-2. Gör samma sak med <i class="sb">när högerpil trycks ned</i> och <i class="sb">vänd höger 15 grader</i>.
+2. Gör samma sak med <span class="sb">när högerpil trycks ned</span> och <span class="sb">vänd höger 15 grader</span>.
 
 ### 5 – Kolla om rymdfarkosten rör vid cirkeln
 
 Efter att vi gått framåt 2 steg så ska vi kolla om vi <span class="sb">rör vid Cirkel</span>.
 
-1. Sätt in blocket <i class="sb">rör vid Cirkel</i> på den tomma rutan av <i class="sb">om <> då</i>-blocket.  
-2. Dra även in <i class="sb">Vi lyckades ta cirkeln!</i> in i <i class="sb">om <> då</i> och sen även <i class="sb">stoppa alla</i>.  
-3. Slutligen flyttar vi hela <i class="sb">om <> då</i>-blocket och lägger det efter <i class="sb">gå 2 steg</i>.
+1. Sätt in blocket <span class="sb">rör vid Cirkel</span> på den tomma rutan av <span class="sb">om <> då</span>-blocket.  
+2. Dra även in <span class="sb">Vi lyckades ta cirkeln!</span> in i <span class="sb">om <> då</span> och sen även <span class="sb">stoppa alla</span>.  
+3. Slutligen flyttar vi hela <span class="sb">om <> då</span>-blocket och lägger det efter <span class="sb">gå 2 steg</span>.
 
 > Starta spelet igen. Säger din rymdfarkost något när du lyckas ta cirkeln?
 
@@ -74,9 +74,9 @@ Efter att vi gått framåt 2 steg så ska vi kolla om vi <span class="sb">rör v
 
 På samma sätt som förra steget. Om vi rör vid satelliten Mats så ska vi säga _Åh nej! Vi krockade med satelliten Mats!_.
 
-1. Sätt in blocket <i class="sb">rör vid Satelliten Mats</i> på den tomma rutan av <i class="sb">om <> då</i>-blocket.  
-2. Dra även in <i class="sb">Åh nej! Vi krockade med satelliten Mats!</i> in i <i class="sb">om <> då</i> och sen även <i class="sb">stoppa alla</i>.  
-3. Slutligen flyttar vi hela <i class="sb">om <> då</i>-blocket och lägger det efter <i class="sb">gå 2 steg</i>.
+1. Sätt in blocket <span class="sb">rör vid Satelliten Mats</span> på den tomma rutan av <span class="sb">om <> då</span>-blocket.  
+2. Dra även in <span class="sb">Åh nej! Vi krockade med satelliten Mats!</span> in i <span class="sb">om <> då</span> och sen även <span class="sb">stoppa alla</span>.  
+3. Slutligen flyttar vi hela <span class="sb">om <> då</span>-blocket och lägger det efter <span class="sb">gå 2 steg</span>.
 
 > Hur hela skriptet ser ut kan du se på nästa sida, men _försök gärna själv först_.
 
