@@ -1,54 +1,37 @@
-<style>
-
-  span.sb {
+<style> span.sb {
     border: 1px solid lightgray;
     border-radius: 5px;
     background: lightgray;
     padding: 2px 5px 4px 5px;
     font-style: normal;
     display: inline-block;
-  }
-
-  span.sb img {
+  } span.sb img {
     position: relative;
     width: 24px;
     height: 25px;
     margin: 0 2px 0 0 !important;
     top: 5px;
-  }
-
-  .movement {
+  } .movement {
     background-color: rgb(76, 151, 255);
     border-color: rgb(51, 115, 204);
     color: white;
-  }
-
-  .event {
+  } .event {
     background-color: rgb(255, 191, 0);
     border-color: rgb(204, 153, 0);
     color: white;
-  }
-
-  .control {
+  } .control {
     background-color: rgb(255, 171, 25);
     border-color: rgb(207, 139, 23);
     color: white;
-  }
-
-  .sensing {
+  } .sensing {
     background-color: rgb(92, 177, 214);
     border-color: rgb(46, 142, 184);
     color: white;
-  }
-
-  .looks {
+  } .looks {
     background-color: rgb(153, 102, 255);
     border-color: rgb(119, 77, 203);
     color: white;
-  }
-
-
-  </style>
+  } </style>
 
 # Programmera en rymdfarkost
 
