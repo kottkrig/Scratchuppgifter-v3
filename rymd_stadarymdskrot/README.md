@@ -59,7 +59,7 @@ Vi har redan gjort en rymdbakgrund och lagt ut en rymdfarkost so du ska styra. �
 Nu ska vi få rymdfarkosten att gå 2 steg hela tiden - för alltid.
 
 1. Vi får flytta <span class="sb movement">gå 2 steg</span> till blocket <span class="sb control">för alltid</span> och stoppa in det där.
-2. Sen drar vi <span class="sb control">för alltid</span> och <span class="sb movemenent">gå 2 steg</span> till start-blocket <span class="sb">när ![flagga](flagga.png)klickas på</span>.
+2. Sen drar vi <span class="sb control">för alltid</span> och <span class="sb movement">gå 2 steg</span> till start-blocket <span class="sb event">när ![flagga](flagga.png)klickas på</span>.
 
 ![](./2_0.png)
 
