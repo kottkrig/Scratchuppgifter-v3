@@ -69,8 +69,6 @@ När vi trycker på den gröna flaggan så börjar inte rymdfarkosten om från b
 
 1. Lägg blocket <span class="sb movement">gå till x:-115 y:-74</span> mellan <span class="sb event">när ![flagga](flagga.png)klickas på</span> och <span class="sb control">för alltid</span>.
 
-    ![Skript 3](skript-03.png)
-
 > Tryck på flaggan några gånger och se hur rymdfarkosten alltid börjar på samma position.
 
 ![](./3_0.png)
