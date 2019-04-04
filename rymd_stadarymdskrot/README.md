@@ -7,6 +7,8 @@
     display: inline-block;
   } span.sb img {
     position: relative;
+    width: 24px;
+    height: 25px;
     margin: 0 2px 0 0 !important;
     top: 5px;
   }</style>
