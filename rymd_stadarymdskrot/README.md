@@ -42,7 +42,7 @@ Nu ska du få bygga ett spel i Scratch där en rymdfarkost ska försöka fånga 
 
 <a href="https://scratch.mit.edu/projects/299972562/editor/" target="_blank">Klicka här för att öppna Scratch-uppgiften</a>
 
-Vi har redan gjort en rymdbakgrund och lagt ut en rymdfarkost so du ska styra. Även alla block som behövs ligger framme.
+Vi har redan gjort en rymdbakgrund och lagt ut en rymdfarkost som du ska styra. Även alla block som behövs ligger framme.
 
 > Om du undrar _hur_ eller _varför_ det fungerar eller om du har andra frågor kan du prata med någon av volontärerna.
 
@@ -78,7 +78,7 @@ När vi trycker på den gröna flaggan så börjar inte rymdfarkosten om från b
 
 Nu ska vi styra rymdfarkosten genom att trycka på piltangenterna på tangentbordet.
 
-1. När vänsterpil trycks ned vill vi att skalbaggen ska vända åt vänster. Dra blocket <span class="sb movement">vänd vänster 15 grader</span> till blocket <span class="sb event">när vänsterpil trycks ned</span>.
+1. När vänsterpil trycks ned vill vi att rymdfarkosten ska vända åt vänster. Dra blocket <span class="sb movement">vänd vänster 15 grader</span> till blocket <span class="sb event">när vänsterpil trycks ned</span>.
 
     ![När vänsterpil vänd åt vänster](./4_0.png)
 
