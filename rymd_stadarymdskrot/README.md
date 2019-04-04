@@ -82,6 +82,8 @@ På samma sätt som förra steget. Om vi rör vid satelliten Mats så ska vi sä
 
 ## Ett färdigt spel
 
+Så här ser hela skriptet ut när det är färdigt. Det behöver inte vara exakt likadant på alla ställen så länge det fungerar som du vill.
+
 ### Fortsättning
 
 Du kan fortsätta programmera hemma eller i skolan. Det finns mer att göra och fler utmaningar hittar du på [kodboken.se](https://kodboken.se).
