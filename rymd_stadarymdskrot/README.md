@@ -11,23 +11,23 @@
     height: 25px;
     margin: 0 2px 0 0 !important;
     top: 5px;
-  } .movement {
+  } span.sb.movement {
     background-color: rgb(76, 151, 255);
     border-color: rgb(51, 115, 204);
     color: white;
-  } .event {
+  } span.sb.event {
     background-color: rgb(255, 191, 0);
     border-color: rgb(204, 153, 0);
     color: white;
-  } .control {
+  } span.sb.control {
     background-color: rgb(255, 171, 25);
     border-color: rgb(207, 139, 23);
     color: white;
-  } .sensing {
+  } span.sb.sensing {
     background-color: rgb(92, 177, 214);
     border-color: rgb(46, 142, 184);
     color: white;
-  } .looks {
+  } span.sb.looks {
     background-color: rgb(153, 102, 255);
     border-color: rgb(119, 77, 203);
     color: white;
